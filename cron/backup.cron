@@ -1,0 +1,4 @@
+0 2 * * * /opt/backup-automation-tool/backup.sh
+15 2 * * * /opt/backup-automation-tool/archive_logs.sh
+30 2 * * * /opt/backup-automation-tool/remote_sync.sh
+
